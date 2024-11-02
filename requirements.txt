@@ -1,0 +1,15 @@
+spacy
+textblob
+nltk
+pandas
+
+
+python -m spacy download en_core_web_sm
+
+
+spacy==3.5.2        # oder die neueste stabile Version
+textblob==0.17.1    # oder die neueste stabile Version
+nltk==3.6.5         # oder die neueste stabile Version
+pandas==1.3.3       # oder die neueste stabile Version
+
+
